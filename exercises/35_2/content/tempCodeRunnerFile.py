@@ -1,0 +1,2 @@
+e.read()
+# print(readin
