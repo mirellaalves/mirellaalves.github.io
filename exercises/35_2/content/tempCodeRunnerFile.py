@@ -1,2 +1,0 @@
-e.read()
-# print(readin
