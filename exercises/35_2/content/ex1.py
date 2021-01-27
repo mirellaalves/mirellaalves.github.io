@@ -16,4 +16,4 @@ def print_name_vertical(name):
         print(letter)
 
 
-print(print_name_vertical("MIRELLA"))
+print(print_name_vertical(name))
